@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Legend Form 📄</b></h1>
+  <h1><b>Legend Form 📄</b></h1>
 </p>
 
 ![image](https://user-images.githubusercontent.com/113897763/234211499-6541b86c-b607-452b-994c-6baf4da7c148.png)
